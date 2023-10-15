@@ -2,6 +2,14 @@
 
 This system using <a href="https://github.com/galanghanaf/php-mvc-framework">PHP MVC Framework</a> with PHP 8.1.10 and NodeJS 18.18.0
 
+## DISCLAIMER
+
+This bot was created for learning purposes
+
+## Introduction
+
+Sebuah bot Threads (Meta) untuk mendeteksi adanya gempa bumi terbaru yang terjadi di Indonesia, berdasarkan data yang diambil secara berkala dari BMKG.
+
 ## Configuration
 
 - Setup Database & URL `app/config/Config.php`
@@ -14,11 +22,7 @@ define("DB_PASS", "password");
 define("DB_NAME", "tbl_earthquake");
 ```
 
-- Setup Threads Bot
-
-```
-cd app/bot
-```
+- Setup Threads Bot in `app/bot`
 
 ```
 npm install
