@@ -9,7 +9,7 @@ This bot was created for learning purposes.
 ## Example
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/galanghanaf/gempa-threads-bot/main/public/img/1.jpg" alt="threads-bot" height="450">
+    <img src="https://raw.githubusercontent.com/galanghanaf/gempa-threads-bot/main/public/img/1.jpg" alt="threads-bot" height="300">
 </p>
 
 ## Introduction
