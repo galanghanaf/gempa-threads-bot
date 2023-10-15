@@ -4,7 +4,13 @@ This system using <a href="https://github.com/galanghanaf/php-mvc-framework">PHP
 
 ## DISCLAIMER
 
-This bot was created for learning purposes
+This bot was created for learning purposes.
+
+## Example
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/galanghanaf/gempa-threads-bot/main/assets/img/1.png" alt="twitter-bot" height="450">
+</p>
 
 ## Introduction
 
