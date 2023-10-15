@@ -1,0 +1,27 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galanghanaf/gempa-threads-bot.git"
+  },
+  "author": "Galang Hanafi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/galanghanaf/gempa-threads-bot/issues"
+  },
+  "homepage": "https://github.com/galanghanaf/gempa-threads-bot#readme",
+  "dependencies": {
+    "@threadsjs/threads.js": "^1.9.0",
+    "axios": "^1.5.1",
+    "body-parser": "^1.20.2",
+    "cron": "^3.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
